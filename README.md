@@ -53,13 +53,3 @@ Esto creará el archivo ~/.gitignore_global. Ahora puedes editar ese archivo de 
 
 
 
-* punto 3g
-
-### Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? 
-
-
-- es el mismo por que un puntero es una variable cuyo contenido es la dirección de memoria de otra variable.
-
-### ¿Qué obtiene en el  punto 4? ¿Es igual a los anteriores? ¿Por qué? 
-
-- 
